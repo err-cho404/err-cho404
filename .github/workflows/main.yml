@@ -19,7 +19,6 @@ jobs:
         run: |
           git config user.name err-cho404
           git config user.email snowleo456@gmail.com
-          git remote set-url origin https://github.com/err-cho404/err-cho404.git
           git add -A .
           git commit -m "generated"
-          git push https://$GITHUB_TOKEN@github.com/err-cho404/err-cho404.git
+          git push
