@@ -47,7 +47,10 @@ You can click the Preview link to take a look at your changes.
 
 
 <!--- ### 프로필 --->
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=err-cho404)](https://solved.ac/err-cho404) ![mazandi profile](http://mazandi.herokuapp.com/api?handle=err-cho404&theme=cold)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=err-cho404)](https://solved.ac/err-cho404) 
+
+<!--- ### 2D잔디 --->
+<!--- ![mazandi profile](http://mazandi.herokuapp.com/api?handle=err-cho404&theme=cold) --->
 
 <!--- ### 3D잔디 --->
 ![](./profile-3d-contrib/profile-green-animate.svg)
