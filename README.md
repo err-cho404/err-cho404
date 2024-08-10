@@ -50,8 +50,17 @@ You can click the Preview link to take a look at your changes.
 <!--- ### 프로필 --->
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=err-cho404)](https://solved.ac/err-cho404) 
 
-<!--- ### 2D잔디 --->
-<!--- ![mazandi profile](http://mazandi.herokuapp.com/api?handle=err-cho404&theme=cold) --->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=err-cho404&layout=donut&show_icons=true&theme=vue&hide_border=true&bg_color=fff&icon_color=3b9a91&text_color=3b9a91&title_color=3b9a91&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+</a>    
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=err-cho404&show_icons=true&theme=vue&hide_border=true&bg_color=fff&icon_color=3b9a91&text_color=20232a&title_color=3b9a91&count_private=true" width=56% />
+</a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=err-cho404&theme=vue&bg_color=ffffff&hide_border=true&line=6bb7b0&color=3b9a91&point=6bb7b0" width=94%/>
+</a>
+
+
 
 <!--- ### 3D잔디 --->
 ![](./profile-3d-contrib/profile-green-animate.svg)
