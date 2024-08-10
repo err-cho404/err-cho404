@@ -4,19 +4,10 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=err-cho404)](https://solved.ac/err-cho404)
 
 
-
-
 <p align=left>Hi, I’m err-cho404</p>
 <p align=left>I’m interested in Javascript, Python language</p>
 <p align=left>I’m currently learning RPA</p>
 <br>
-
-
-<!---
-err-cho404/err-cho404 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 
 
 <!--- ### Main Languages --->
