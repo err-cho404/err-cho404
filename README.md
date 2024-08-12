@@ -54,6 +54,6 @@
 
 
 <!--- ### 3D잔디 --->
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-green.svg)
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=180&text=Don't%20forget%20me&fontSize=20&fontColor=ffffff&fontAlign=90&fontAlignY=90&color=0:d0e5e3,100:005e5b&section=footer)
