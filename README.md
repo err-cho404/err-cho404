@@ -1,7 +1,7 @@
 ## err-cho404 <a id="Error">
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=300&text=Error404&fontColor=ffffff&fontAlignY=40&color=0:d0e5e3,100:005e5b&section=header&desc=How%20to%20Find%20Me?&descSize=15)
 <!--- ### Mini profile --->
-[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=err-cho404)](https://solved.ac/err-cho404)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=errcho404)](https://solved.ac/errcho404)
 
 
 <p align=left>Hi, I’m err-cho404</p>
@@ -39,7 +39,7 @@
 
 
 <!--- ### 프로필 --->
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=err-cho404)](https://solved.ac/err-cho404/) 
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=errcho404)](https://solved.ac/errcho404/) 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=err-cho404&layout=donut&show_icons=true&theme=vue&hide_border=true&bg_color=fff&icon_color=3b9a91&text_color=3b9a91&title_color=3b9a91&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
