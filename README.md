@@ -1,5 +1,5 @@
 ## err-cho404 <a id="Error">
-![waving](https://capsule-render.vercel.app/api?type=waving&height=300&text=Error404&fontColor=ffffff&fontAlignY=40&color=0:d0e5e3,100:005e5b&section=header&desc=Hello~!&descSize=15)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=300&text=Error404&fontColor=ffffff&fontAlignY=40&color=0:d0e5e3,100:005e5b&section=header&desc=Hi!&descSize=15)
 <!--- ### Mini profile --->
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=errcho404)](https://solved.ac/errcho404)
 
