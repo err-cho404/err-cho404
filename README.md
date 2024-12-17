@@ -4,7 +4,7 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=errcho404)](https://solved.ac/errcho404)
 
 
-<p align=left>Hi, I’m err-cho404</p>
+<p align=left>I’m err-cho404</p>
 <p align=left>I’m interested in Javascript, Python language</p>
 <p align=left>I’m currently learning RPA</p>
 <br>
