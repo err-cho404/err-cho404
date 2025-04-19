@@ -38,8 +38,8 @@
 
 
 
-<!--- ### 프로필 --->
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=errcho404)](https://solved.ac/errcho404/) 
+<!--- ### 프로필 
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=errcho404)](https://solved.ac/errcho404/) --->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=err-cho404&layout=donut&show_icons=true&theme=vue&hide_border=true&bg_color=fff&icon_color=3b9a91&text_color=3b9a91&title_color=3b9a91&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
